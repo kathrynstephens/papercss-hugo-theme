@@ -8,3 +8,5 @@ fields:
   label: Post `type
   description: What topics does this post talk about
   hidden: true
+pages:
+- content/First_blog_post.md
